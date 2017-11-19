@@ -1,2 +1,1 @@
-# 2017_11_18_MoscowMetro
-Presentation of the team and project of the Moscow Metro Hackathon of Y4PT
+Go to https://github.com/JamsCenter/2017_11_18_MoscowMetro/wiki
